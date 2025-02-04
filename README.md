@@ -20,7 +20,17 @@
 
 ### Connect with Me :
 
-<a href="https://linkedin.com/in/hazemaymanhs" target="_blank"><img src="https://img.shields.io/badge/-Hazem%20Ayman-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
+<a href="https://linkedin.com/in/hazemaymanhs" target="_blank">
+    <img src="https://img.shields.io/badge/-Hazem%20Ayman-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/>
+</a>
+&nbsp;
+<a href="https://facebook.com/HAJ4589KSA" target="_blank">
+    <img src="https://img.shields.io/badge/-Hazem%20Ayman-1877F2?style=for-the-badge&logo=Facebook&logoColor=white"/>
+</a>
+&nbsp;
+</a>
+
+
 
 ### 🛠 &nbsp;Tech Stack
 ![Python](https://img.shields.io/badge/-Python%20-05122A?style=flat&logo=python)&nbsp;
@@ -40,8 +50,7 @@
 
 
 
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hazemayman&show_icons=true&locale=en&layout=compact&theme=radical" alt="most used languages" />
-<br>
+
 <a href="https://komarev.com/ghpvc/?username=hazemayman&style=for-the-badge">
     <img src="https://komarev.com/ghpvc/?username=hazemayman&style=for-the-badge">
 </a>
