@@ -11,7 +11,7 @@
     <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Aspiring%20AI%20Engineer;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22"></a>
 </p> 
 
-- 🏢 I'm a Software Engineer and Technical Community Manager at Almadrsa
+- 🏢 I'm a Computer Science student, aspiring AI & Machine Learning developer, and active tech community organizer.
 - 👨‍💻 As a CS student, I'm constantly learning and exploring new technologies to improve my skills.
 - 💬 Ask me about my experience with Python or anything related to AI and ML.
 - ⚡ Fun Fact: I’m into AI, cybersecurity, and game development—but if you put me in a coding competition, there’s a 50% chance I’ll build something useful and a 50% chance I’ll just make a game about cats taking over the world.
