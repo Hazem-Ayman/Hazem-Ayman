@@ -3,7 +3,7 @@
 # Hi, I'm Hazem Ayman! 🤖 Aspiring AI/ML Engineer & Instructor
 
 <p align="left">
-    <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=AI%20&%20ML%20Developer%20in%20Training;CS%20Student%20@%20Assiut%20University;AI%20&%20Coding%20Instructor%20@%20Blooms%20Egypt;OOP,%20DSA,%20and%20System%20Design%20Enthusiast&font=Fira%20Code&center=false&width=500&height=45&color=f75c7e&vCenter=true&size=22"></a>
+    <img src="https://img.shields.io/badge/CS%20Student%20@%20Assiut%20University%20%7C%20AI%20&%20Coding%20Instructor-f75c7e?style=for-the-badge&logo=python&logoColor=white" alt="AI & Coding Instructor Badge">
 </p>
 
 ---
@@ -36,13 +36,11 @@
 ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 
 **Tools & Systems:**
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
 
 ---
 
