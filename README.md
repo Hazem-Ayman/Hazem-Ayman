@@ -1,4 +1,4 @@
-<img width="250" align="right" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMWEzNmZndHF3OWt4Nm1mZ2NnOG51aG03d3M1M3E2d2w4YnpveHR4NyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L2gLw1Kj5T5k9h70jQ/giphy.gif">
+<img width="250" align="right" src="https://img.shields.io/badge/AI%20%26%20ML-Focused-FF4500?style=for-the-badge&logo=tensorflow&logoColor=white" alt="AI & ML Badge">
 
 # Hi, I'm Hazem Ayman! 🤖 Aspiring AI/ML Engineer & Instructor
 
@@ -37,10 +37,12 @@
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 
+
 **Tools & Systems:**
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
 
 ---
 
