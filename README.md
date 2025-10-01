@@ -1,57 +1,73 @@
+<img width="250" align="right" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMWEzNmZndHF3OWt4Nm1mZ2NnOG51aG03d3M1M3E2d2w4YnpveHR4NyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L2gLw1Kj5T5k9h70jQ/giphy.gif">
 
-<img width="250" align="right" src="https://c.tenor.com/_DOBjnGspYAAAAAM/code-coding.gif">
+# Hi, I'm Hazem Ayman! 🤖 Aspiring AI/ML Engineer & Instructor
 
-<h3 align="center">
-  Welcome to Hazem Ayman's profile!
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
-</h3>
+<p align="left">
+    <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=AI%20&%20ML%20Developer%20in%20Training;CS%20Student%20@%20Assiut%20University;AI%20&%20Coding%20Instructor%20@%20Blooms%20Egypt;OOP,%20DSA,%20and%20System%20Design%20Enthusiast&font=Fira%20Code&center=false&width=500&height=45&color=f75c7e&vCenter=true&size=22"></a>
+</p>
 
-<!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
+---
+
+### About Me
+
+👋 I'm a **3rd-year Computer Science Student** at **Assiut University**, with a passion for transforming ideas into intelligent solutions.
+
+- 🧠 Currently focused on **Artificial Intelligence** and **Machine Learning**, leveraging Python (NumPy, Pandas, Scikit-learn).
+- 👨‍🏫 AI & Coding Instructor at **Blooms Egypt**, teaching Python, OOP, and robotics fundamentals.
+- 💡 Organizer for the **HULT Prize** competition and a core team member for **Enactus**.
+- 🏆 Proud to have won 3rd place with the **Kidsability** team (Hand by Hand Initiative) for developing a digital platform for kids with disabilities.
+- 🌱 Actively building my knowledge in **Solid Principles**, **Design Patterns**, **Clean Code**, and **System Design**.
+- 📚 My immediate learning goal is to deepen my understanding of **DSA** with Python and explore **Computer Architecture/OS**.
+- 💻 I love hardware, robotics (Arduino), and enjoy **filmmaking** in my free time.
+
+---
+
+### 🛠 Key Skills & Tech Stack
+
+**AI & Data Science:**
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+
+**Core Languages & Frameworks:**
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+
+**Tools & Systems:**
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
+
+---
+
+### 📈 GitHub Stats
+
 <p align="center">
-    <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Aspiring%20AI%20Engineer;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22"></a>
-</p> 
+  <img src="https://github-readme-stats.vercel.app/api?username=hazemayman&show_icons=true&theme=onedark&hide_border=true&count_private=true" alt="Hazem Ayman's GitHub Stats"/>
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hazemayman&layout=compact&langs_count=6&theme=onedark&hide_border=true" alt="Top Languages"/>
+</p>
 
-- 🏢 I'm a Computer Science student, aspiring AI & Machine Learning developer, and active tech community organizer.
-- 👨‍💻 As a CS student, I'm constantly learning and exploring new technologies to improve my skills.
-- 💬 Ask me about my experience with Python or anything related to AI and ML.
-- ⚡ Fun Fact: I’m into AI, cybersecurity, and game development—but if you put me in a coding competition, there’s a 50% chance I’ll build something useful and a 50% chance I’ll just make a game about cats taking over the world.
+---
 
-
-
-### Connect with Me :
+### Connect with Me
 
 <a href="https://linkedin.com/in/hazemaymanhs" target="_blank">
-    <img src="https://img.shields.io/badge/-Hazem%20Ayman-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 &nbsp;
 <a href="https://facebook.com/HAJ4589KSA" target="_blank">
-    <img src="https://img.shields.io/badge/-Hazem%20Ayman-1877F2?style=for-the-badge&logo=Facebook&logoColor=white"/>
-</a>
-&nbsp;
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
 </a>
 
-
-
-### 🛠 &nbsp;Tech Stack
-![Python](https://img.shields.io/badge/-Python%20-05122A?style=flat&logo=python)&nbsp;
-![NumPy](https://img.shields.io/badge/-NumPy-05122A?style=flat&logo=numpy)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-05122A?style=flat&logo=postgresql)
-![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=c%2B%2B)
-![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
-![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
-![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
-![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
-![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
-![Linux](https://img.shields.io/badge/-Linux-05122A?style=flat&logo=linux)
-
-
-
-
-
-
-
+<br/>
 
 <a href="https://komarev.com/ghpvc/?username=hazemayman&style=for-the-badge">
     <img src="https://komarev.com/ghpvc/?username=hazemayman&style=for-the-badge">
 </a>
-
