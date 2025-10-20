@@ -46,16 +46,6 @@
 
 ---
 
-### 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=hazemayman&show_icons=true&theme=onedark&hide_border=true&count_private=true" alt="Hazem Ayman's GitHub Stats"/>
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hazemayman&layout=compact&langs_count=6&theme=onedark&hide_border=true" alt="Top Languages"/>
-</p>
-
----
-
 ### Connect with Me
 
 <a href="https://linkedin.com/in/hazemaymanhs" target="_blank">
